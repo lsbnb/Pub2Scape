@@ -7,4 +7,6 @@ Currently, Pubtator2CytoScape is in the beta version stage. We are actively work
 For those keywords not identified as "bioconcepts/ NER" in pubtator, we will provide a new function, -c <custom_file>, to allow users to add their own "NER" and calculate the frequency among NERs and customized ones for visualization in Cytoscape.
 
 Meanwhile, we also plan to implement the standalone website as a docker image with a build-in network viewer to allow researchers to perform the analysis without IT burden. All the codes developed by this project will be free and open to the public.  
+
+# Docker Installation
 Meanwhile, we also provide Docker image, https://hub.docker.com/r/lsbnb/pubtator2cytoscape
